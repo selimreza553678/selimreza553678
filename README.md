@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Md Selim Reza</h1>
-<h3 align="center">Wordpress Web developer</h3>
+<h3 align="center">Wordpress Web designer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=selimreza553678&label=Profile%20views&color=0e75b6&style=flat" alt="selimreza553678" /> </p>
 
